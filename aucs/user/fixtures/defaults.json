@@ -1,0 +1,102 @@
+[
+  {
+    "model": "user.user",
+    "pk": 1,
+    "fields": {
+      "email": "past1@example.com",
+      "last_login": "2025-05-21T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 2,
+    "fields": {
+      "email": "past2@example.com",
+      "last_login": "2025-06-01T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 3,
+    "fields": {
+      "email": "past3@example.com",
+      "last_login": "2025-06-10T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 4,
+    "fields": {
+      "email": "past4@example.com",
+      "last_login": "2025-07-01T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 5,
+    "fields": {
+      "email": "past5@example.com",
+      "last_login": "2025-07-15T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 6,
+    "fields": {
+      "email": "future1@example.com",
+      "last_login": "2025-09-01T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 7,
+    "fields": {
+      "email": "future2@example.com",
+      "last_login": "2025-09-10T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 8,
+    "fields": {
+      "email": "future3@example.com",
+      "last_login": "2025-09-15T12:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 9,
+    "fields": {
+      "email": "today1@example.com",
+      "last_login": "2025-08-21T10:00:00Z",
+      "is_active": true
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 10,
+    "fields": {
+      "email": "today2@example.com",
+      "last_login": "2025-08-21T15:00:00Z",
+      "is_active": true
+    }
+  },
+
+  {
+    "model": "user.cleanupreport",
+    "pk": 1,
+    "fields": {
+      "timestamp": "2025-07-01T12:00:00Z",
+      "users_deleted": 5,
+      "active_users_remaining": 5
+    }
+  }
+]
