@@ -95,8 +95,8 @@
     "pk": 1,
     "fields": {
       "timestamp": "2025-07-01T12:00:00Z",
-      "users_deleted": 5,
-      "active_users_remaining": 5
+      "users_deleted": 0,
+      "active_users_remaining": 10
     }
   }
 ]
